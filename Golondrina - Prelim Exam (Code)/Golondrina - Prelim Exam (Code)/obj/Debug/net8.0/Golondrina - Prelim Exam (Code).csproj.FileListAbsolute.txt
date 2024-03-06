@@ -1,0 +1,14 @@
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\bin\Debug\net8.0\Golondrina - Prelim Exam (Code).exe
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\bin\Debug\net8.0\Golondrina - Prelim Exam (Code).deps.json
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\bin\Debug\net8.0\Golondrina - Prelim Exam (Code).runtimeconfig.json
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\bin\Debug\net8.0\Golondrina - Prelim Exam (Code).dll
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\bin\Debug\net8.0\Golondrina - Prelim Exam (Code).pdb
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\obj\Debug\net8.0\Golondrina - Prelim Exam (Code).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\obj\Debug\net8.0\Golondrina - Prelim Exam (Code).AssemblyInfoInputs.cache
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\obj\Debug\net8.0\Golondrina - Prelim Exam (Code).AssemblyInfo.cs
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\obj\Debug\net8.0\Golondrina - Prelim Exam (Code).csproj.CoreCompileInputs.cache
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\obj\Debug\net8.0\Golondrina - Prelim Exam (Code).dll
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\obj\Debug\net8.0\refint\Golondrina - Prelim Exam (Code).dll
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\obj\Debug\net8.0\Golondrina - Prelim Exam (Code).pdb
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\obj\Debug\net8.0\Golondrina - Prelim Exam (Code).genruntimeconfig.cache
+C:\Users\golon\source\repos\Golondrina - Prelim Exam (Code)\Golondrina - Prelim Exam (Code)\obj\Debug\net8.0\ref\Golondrina - Prelim Exam (Code).dll
