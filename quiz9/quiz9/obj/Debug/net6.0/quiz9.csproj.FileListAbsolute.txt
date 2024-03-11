@@ -1,0 +1,14 @@
+C:\Users\golon\source\repos\quiz9\quiz9\obj\Debug\net6.0\quiz9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golon\source\repos\quiz9\quiz9\obj\Debug\net6.0\quiz9.AssemblyInfoInputs.cache
+C:\Users\golon\source\repos\quiz9\quiz9\obj\Debug\net6.0\quiz9.AssemblyInfo.cs
+C:\Users\golon\source\repos\quiz9\quiz9\obj\Debug\net6.0\quiz9.csproj.CoreCompileInputs.cache
+C:\Users\golon\source\repos\quiz9\quiz9\bin\Debug\net6.0\quiz9.exe
+C:\Users\golon\source\repos\quiz9\quiz9\bin\Debug\net6.0\quiz9.deps.json
+C:\Users\golon\source\repos\quiz9\quiz9\bin\Debug\net6.0\quiz9.runtimeconfig.json
+C:\Users\golon\source\repos\quiz9\quiz9\bin\Debug\net6.0\quiz9.dll
+C:\Users\golon\source\repos\quiz9\quiz9\bin\Debug\net6.0\quiz9.pdb
+C:\Users\golon\source\repos\quiz9\quiz9\obj\Debug\net6.0\quiz9.dll
+C:\Users\golon\source\repos\quiz9\quiz9\obj\Debug\net6.0\refint\quiz9.dll
+C:\Users\golon\source\repos\quiz9\quiz9\obj\Debug\net6.0\quiz9.pdb
+C:\Users\golon\source\repos\quiz9\quiz9\obj\Debug\net6.0\quiz9.genruntimeconfig.cache
+C:\Users\golon\source\repos\quiz9\quiz9\obj\Debug\net6.0\ref\quiz9.dll
